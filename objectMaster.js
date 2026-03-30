@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 const pokemon = Object.freeze([
     { "id": 1,   "name": "Bulbasaur",  "types": ["poison", "grass"] },
+    { "id": 4,   "name": "Charmander", "types": ["fire"] },
     { "id": 5,   "name": "Charmeleon", "types": ["fire"] },
     { "id": 9,   "name": "Blastoise",  "types": ["water"] },
     { "id": 12,  "name": "Butterfree", "types": ["bug", "flying"] },
