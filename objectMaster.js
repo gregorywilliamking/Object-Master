@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const pokemon = Object.freeze([
     { "id": 1,   "name": "Bulbasaur",  "types": ["poison", "grass"] },
     { "id": 5,   "name": "Charmeleon", "types": ["fire"] },
@@ -113,3 +114,6 @@ console.log ( " # 11 ")
 const psychicType = pokemon.filter( p => p.types[0] === "psychic");
 
 console.log(psychicType)
+=======
+
+>>>>>>> 9fb250651ee635e534ee96931a6a666fdebb871d
